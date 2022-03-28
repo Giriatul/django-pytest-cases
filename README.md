@@ -100,7 +100,7 @@ Assuming that base resource is `/api/v1/accounts/`
 - `PUT: /set-password/`: Set user password when login with social account
 
 Check more APIs Design at [here](https://drf-registration.readthedocs.io/en/latest/apis.html).
-
+s
 ## Command line
 
 Unit Test
